@@ -13,5 +13,7 @@ pip install ./ChatterBot-spacy_fixed (install ChatterBot-spacy_fixed)
 python -m spacy download en_core_web_sm (install en_core_web_sm)
 python3 app.py (run given app) 
 
+When the app runs, make sure to open the html link in the internet browser in order to see the chatbot. 
+
 
 For this practice, new items have been added to the conversation list in the chat.py file. 
