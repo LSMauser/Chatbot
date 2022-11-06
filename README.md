@@ -4,7 +4,7 @@ Week 11 Practice
 
 This practice project is to create a simple chatbot. All the files have been provided.
 
-First, the user must use visual studio and install the python extension. The user must download the project files and save them to the new folder in visual studio folder. (Note* the user must unzip the ChatterBot-soacy_fixed file) Then the user must install python and activate the python environment. 
+First, the user must use visual studio and install the python extension. The user must download the project files and save them to the folder in visual studio. (Note* the user must unzip the ChatterBot-soacy_fixed file) Then the user must install python and activate the python environment. 
 
 Next the user must do the following commands: 
 python3 -m pip install flask (install flask)
